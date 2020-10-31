@@ -40,6 +40,6 @@
 
 10. Link for Video and ppt showing how the prototype works ( be as creative and innovative as possible ).  
 
-   ANSWER Link Of Video-https://youtu.be/Jby5zYMMVus  Link Of PPT-
+   ANSWER Link Of Video-https://youtu.be/Jby5zYMMVus
 
-11. Link for your website or app if you are using any third party apps like wix.com, etc. 
+11. Link for your website or app if you are using any third party apps like wix.com, etc. Website Link - https://hackathonsrmap.wixsite.com/website-1
